@@ -11,7 +11,7 @@
 
 
 
-This repository contains the implementation of [**AgentSymbiotic**], an advanced web agent framework. It introduces a **symbiotic learning framework** that enables **large language models (LLMs)** and **small language models (SLLMs)** to enhance each other iteratively, achieving superior performance in web-based automation tasks. Our code is built upon [AgentOccam](https://github.com/amazon-science/AgentOccam).
+This repository contains the implementation of [**AgentSymbiotic**](https://www.arxiv.org/abs/2502.07942), an advanced web agent framework. It introduces a **symbiotic learning framework** that enables **large language models (LLMs)** and **small language models (SLLMs)** to enhance each other iteratively, achieving superior performance in web-based automation tasks. Our code is built upon [AgentOccam](https://github.com/amazon-science/AgentOccam).
 ## 🚀 Key Features
 
 - **Mutual Improvement Between LLMs and SLLMs**  
